@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Pricing OTC Derivatives](/sample_page)
+[Pricing OTC Derivatives](/Final Project.ipynb)
 <img src="images/Pricing Library.png?raw=true"/>
 
 ---
