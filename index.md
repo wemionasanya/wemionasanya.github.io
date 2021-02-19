@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Pricing OTC Derivatives](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Pricing Library.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
